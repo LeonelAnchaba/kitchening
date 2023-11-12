@@ -1,0 +1,17 @@
+.footer__navbar {
+    margin: 50px auto 20px;
+    text-align: center;
+    border:white solid 1px;
+    background-color: var(--color-rojo);
+    border-radius:10px;
+}
+
+
+.footer__home {
+    border-top:none;
+}
+
+.footer__navbar a{
+    color:white;
+}
+
